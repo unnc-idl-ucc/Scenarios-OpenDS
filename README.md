@@ -1,5 +1,6 @@
 # Scenarios-OpenDS
 An intial release of scenario generations of OpenDS
+Building a scenario does not require a programming language such as Java，Each scenario contains 5 xml file.
 
 ## Motivation
 
