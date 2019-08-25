@@ -19,4 +19,4 @@ For the manual driving task, We take the number of lanes, the speed limit and th
 
 ## Contributors
 
-[Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
+[Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ZilinSONG), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
