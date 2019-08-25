@@ -16,3 +16,7 @@ In this project, we want to use different parameter settings to simulate differe
 ## Design_Choices
 
 For the manual driving task, We take the number of lanes, the speed limit and the number of road vehicles as variables to build scenarios which is helpful for our research. The auto driving task take the driving style and the average speed of the vehicle as variables. For each scenario, we add three main events and when people run these task, Their action data will be recorded for future research.
+
+## Contributors
+
+[Shuolei Wang](https://github.com/ShuoleiWang), [Zilin Song](https://github.com/ShuoleiWang), mentored by [Xiangjun Peng](https://github.com/Shiangjun)
